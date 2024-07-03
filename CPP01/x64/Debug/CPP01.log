@@ -1,0 +1,6 @@
+﻿  main.cpp
+main.obj : error LNK2019: "int __cdecl header1::foo(void)" (?foo@header1@@YAHXZ)main 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: "void __cdecl header1::bar(void)" (?bar@header1@@YAXXZ)main 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: "int __cdecl header2::foo(void)" (?foo@header2@@YAHXZ)main 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: "void __cdecl header2::bar(void)" (?bar@header2@@YAXXZ)main 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\yeongrokKim\Desktop\대학\여름방학 스터디\코드\SummerStudy\x64\Debug\CPP01.exe : fatal error LNK1120: 4개의 확인할 수 없는 외부 참조입니다.
